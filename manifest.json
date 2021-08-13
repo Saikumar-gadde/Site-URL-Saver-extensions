@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Site URL Saver",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "clipart1841696.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
